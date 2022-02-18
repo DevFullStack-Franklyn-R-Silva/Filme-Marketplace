@@ -1,0 +1,60 @@
+.mat-card-avatar {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.mat-card>:first-child, .mat-card-content>:first-child {
+  margin-top: 0;
+}
+.card-header-image[_ngcontent-ves-c27] {
+  background-image: url(https://www.github.com/hadesfranklyn.png);
+  background-size: cover;
+
+}
+.mat-card-header .mat-card-subtitle:not(:first-child) {
+  margin-top: -8px;
+}
+.mat-card-header {
+  display: flex;
+  flex-direction: row;
+}
+.mat-card-header {
+  display: flex;
+  flex-direction: row;
+}
+a.link {
+  text-decoration: none;
+  color: #000;
+}
+.mat-card-title.title {
+  font-size: 32px;
+  font-family: "Roboto", "Helvetica Neue", "sans-serif";
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url('https://www.github.com/hadesfranklyn.png');
+  background-size: cover;
+}
+.mat-card-image {
+  width: calc(15% + 32px);
+  margin: 0 -16px 16px 0px;
+  display: block;
+  overflow: hidden;
+
+}
+
+.example-button-row {
+  display: table-cell;
+  width: 300px;
+  color: black ;
+}
+
